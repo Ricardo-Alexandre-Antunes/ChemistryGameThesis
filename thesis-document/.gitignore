@@ -93,3 +93,4 @@ oscrypto-ca-bundle.crt
 sftp-config.json
 tags
 tramp
+_minted/*
