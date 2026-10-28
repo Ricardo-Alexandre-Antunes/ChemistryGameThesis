@@ -1,26 +1,82 @@
-\chapter{Introdução}
+\chapter{Introduction}
 \label{chap:introduction}
 
-\begin{introduction}
-Este capítulo foi criado por um modelo de Inteligência Artificial para demonstrar as várias funcionalidades disponíveis neste template de \LaTeX{}.
-\end{introduction}
+\section{Introduction}
 
-\section{Introdução}
-Este trabalho apresenta um estudo detalhado sobre [tema do trabalho], abordando os principais desafios e propondo soluções inovadoras. Através de uma análise rigorosa e da implementação de [métodos/tecnologias], conseguimos alcançar resultados significativos que contribuem para o avanço do conhecimento na área de [área de estudo].
+\subsection{Motivation}
 
-\section{Objetivos}
-Os principais objetivos deste trabalho incluem a investigação de [tema específico], o desenvolvimento de [ferramentas/métodos] e a validação das soluções propostas através de [experimentos/estudos de caso]. Espera-se que os resultados obtidos possam ser aplicados em contextos práticos, beneficiando tanto a comunidade académica como a indústria.
+\subsection{Objectives}
 
-\section{Contribuições}
-Este trabalho contribui para a área de [área de estudo] ao propor [novas metodologias/tecnologias], apresentar uma análise comparativa de [ferramentas/métodos existentes] e fornecer insights valiosos sobre [aspectos específicos do tema]. Resultou na criação de [ferramentas/software] que podem ser utilizados por outros investigadores e profissionais na área. Foram publicados artigos em conferências e revistas de renome, destacando a relevância e o impacto do trabalho realizado:
-\begin{itemize}
-    \item Referência do Artigo 1
-    \item Referência do Artigo 2
-    \item Referência do Artigo 3
-\end{itemize}
+\subsection{Target Audience}
 
-\section{Estrutura do Documento}
-Este documento está organizado em X capítulos. O Capítulo~\ref{chap:introduction} apresenta \ldots
+\section{The core principles of a Serious Game and current landscape}
 
+According to Silva \cite{daSilva2025}, the first published article (published in January 1925) pointed towards lack of attention and interest as the main challenges that the main issues in learning Chemistry. The author also points out that Chemistry is an abstract subject, dealing with mathematical and symbolic equations, making it harder for students to interiorize concepts, and the traditional teaching methods are insufficient to fight these adversities. As such, creating educational games to ease the learning of Chemistry concepts by making students actively engage in learning activities. \newline
+The concept of making the student engaged in the learning activity, and placing the student at the center of the learning process can be translated into the need to provide a pleasurable experience for the student, in particular, in educational games, the student must be engaged in the game, which can only happen if the student is having fun while playing the game. This is supported by Zaharias \cite{Zaharias2010}, who concluded that hedonic and pragmatic qualities both contributed significantly for a student's motivation to learn.\newline
+The study pointed out that while both 2D and 3D games can serve to increase motivation in learning, in case of 3D games, this motivation was short-lived and did not persist as easily, likely due to the novelty of the 3D experience, which can be explained by the fact that the article was published in 2010. Altough the study was performed on students in the 5th and 6th grade, which doesn't quite match the target audience for this project, the conclusions can be useful to justify and base the design decision to focus on hedonic aspects.
+The same study also concluded that the motivation to learn increased significantly with the game's pragmatic qualities, the player's need and desire to improve at the game and the appeal of the game itself.\newline
+Silva's systematic review \cite{daSilva2025} also showed that out of all the games found between 1925 and 2024, a mere 19\% were digital-based. Furthermore, only 5\% were developed towards Middle School students. These statistic show that games published in a digital format for Middle School students represent a minority of the games published in the last 100 years, showing a gap in the State of Art.
+
+
+
+\section{State of Art}
+Educational Games in academic settings can commercial settings were found to be distinct in its core.
+On one hand, games built from an academic setting underwent former evaluation moments, most of the times focused on how effective the games were as an educational tool.
+For commercial games, such studies and evaluations cannot be found, but feedback can be found from reviews or comments in the game's page.
+For these, a watching a playthrough (or even playing myself) was necessary to verify and understand the purpose of these games, in order to categorize their strengths and weakenesses. \newline 
+
+Altough there are many examples that can be found both in academic and commercial settings, the ones highlighted in this section all bring an unique contribution towards the discussion in this section, while also highlighting common flaws both in games created in academic settings (focus on academic aspects, leaving aside the hedonic aspects) and commercial settings (focus on commercial aspects, leaving aside the educational aspects).
+
+For finding these articles, the following methods were used:
+
+\begin{enumerate}
+    \item Search by using Scopus, with the following query: "GAMES" AND "EDUCATIONAL" AND "HEDONIC" AND NOT "GAMIFICATION".
+    \item Search by using ResearchRabbit, used to find and compile the references mentioned by Silva et al. \cite{daSilva2025}.
+    \item Suggestions of articles and games provided by the supervisors, teachers and colleagues.
+\end{enumerate}
+
+With this state of art, it is possible to visualize a game where we have a middle ground between academic games and commercial games, retrieving the best of both worlds.
+
+\subsection{Educational Games in an Academic Setting}
+
+\begin{table}[ht]
+\rowcolors{2}{white}{gray!45}
+\centering
+\small
+\begin{tabularx}{\textwidth}{
+    >{\raggedright\arraybackslash}p{2.5cm}
+    || >{\raggedright\arraybackslash}p{1.5cm}
+    | X | X
+}
+
+    \textbf{Name} & \textbf{Context} & \textbf{Contributions} & \textbf{Limitations} \\
+    \hline
+    \textbf{\textit{Vikings}} \cite{daSilvaJnior2024vikings}
+    & Academic
+    & Game which promotes cooperation between players, can be played in the context of a classroom
+    & The learning-related mechanic (flashcards) seems disconnected with the game theme (vikings), which leads to a loss of immersion. Furthermore, each game session lasts, on average, 60 minutes. In the game experience evaluation, the evaluation method was modified and this modification was not validated.
+    \\
+    \hline
+    \textbf{\textit{Metal Demon Conqueror Game}} \cite{Pinthong2024}
+    & Academic
+    & Game which achieves immersion and integration of learning mechanics within the context of the game. Furthermore, it provides tracking and monitoring tools which allows the teacher to analyse and act on the student's performance.
+    & The game was developed for a very specific context (a single scholl in Thailand), altough, in the article, a general passcode is provided so that anyone can try the game. The tracking tool does not seem to be scalable, not allowing for different amounts of teachers / supervisors and linking them to specific students. Another limitation is presented on the lack of testing of the game, in an hedonic persepctive, which is noticeable both when playing the game and also in the feedback given by the students. The evaluation methods used do not follow a validated method, which decreases the validity of the presented results.
+    \\
+    \hline
+    \textbf{\textit{Space Race Game}} \cite{daSilvaJnior2024spacerace}
+    & Academic
+    & Game which can be played in the context of a classroom, promotes competition between students, and through evaluation it was shown that it can serve as an educational tool.
+    & The game's mechanics are disconnected from the game's concept, and the evaluation methods used by the authors show that the hedonic components of the game were not a priority. The results seem to point towards this: one of the measured metrics (Focused Attention) received a considerably lower score than the remaining metrics, suggesting that there was a lack of immersion when playing the game.
+    \\
+    \hline
+    \hline
+\end{tabularx}
+\end{table}
+
+
+
+\subsection{Educational Games in a Commercial Setting}
+
+\section{Educational Content and Techniques for teaching chemistry for the Target Audience}
 
 

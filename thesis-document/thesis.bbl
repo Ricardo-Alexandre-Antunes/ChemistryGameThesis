@@ -19,39 +19,322 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global/global}
-    \entry{modelos}{report}{}{}
-      \name{author}{1}{}{%
-        {{hash=0786bc35ff5fb8916d1d1e798170e157}{%
-           family={Gestão\bibnamedelima Académica},
-           familyi={G\bibinitperiod\bibinitdelim A\bibinitperiod},
-           given={Serviços},
-           giveni={S\bibinitperiod},
+    \entry{daSilva2025}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=789fa3676769027cf2414b1974acd479}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={José\bibnamedelima Nunes},
+           giveni={J\bibinitperiod\bibinitdelim N\bibinitperiod},
+           prefix={da},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=c0ce685d798f0ce291fad742ebc59fc2}{%
+           family={Socorro\bibnamedelimb Caldas\bibnamedelima Teotônio},
+           familyi={S\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod},
+           prefix={do},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=0816ee83dff0e8e08117fd16b032cf76}{%
+           family={Jucá},
+           familyi={J\bibinitperiod},
+           given={Renner\bibnamedelimb César\bibnamedelima Silveira},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=9862ee2caccd2c6e6aa5c753fadc3dd8}{%
+           family={Lima\bibnamedelima Castro},
+           familyi={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Guilherme},
+           giveni={G\bibinitperiod},
            prefix={de},
            prefixi={d\bibinitperiod}}}%
+        {{hash=dd20b1e3b2b3bb56c12f3ace332f17cf}{%
+           family={Leite},
+           familyi={L\bibinitperiod},
+           given={Antonio\bibnamedelimb José\bibnamedelima Melo},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
       }
-      \list{institution}{1}{%
-        {Universidade de Aveiro}%
+      \list{publisher}{1}{%
+        {American Chemical Society}%
       }
-      \strng{namehash}{0786bc35ff5fb8916d1d1e798170e157}
-      \strng{fullhash}{0786bc35ff5fb8916d1d1e798170e157}
-      \strng{fullhashraw}{0786bc35ff5fb8916d1d1e798170e157}
-      \strng{bibnamehash}{0786bc35ff5fb8916d1d1e798170e157}
-      \strng{authorbibnamehash}{0786bc35ff5fb8916d1d1e798170e157}
-      \strng{authornamehash}{0786bc35ff5fb8916d1d1e798170e157}
-      \strng{authorfullhash}{0786bc35ff5fb8916d1d1e798170e157}
-      \strng{authorfullhashraw}{0786bc35ff5fb8916d1d1e798170e157}
+      \strng{namehash}{2c406f692c5eae22523d9eff1134e5e0}
+      \strng{fullhash}{11be6d3579bec52947ac23d383cedd15}
+      \strng{fullhashraw}{11be6d3579bec52947ac23d383cedd15}
+      \strng{bibnamehash}{11be6d3579bec52947ac23d383cedd15}
+      \strng{authorbibnamehash}{11be6d3579bec52947ac23d383cedd15}
+      \strng{authornamehash}{2c406f692c5eae22523d9eff1134e5e0}
+      \strng{authorfullhash}{11be6d3579bec52947ac23d383cedd15}
+      \strng{authorfullhashraw}{11be6d3579bec52947ac23d383cedd15}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{{Mestrados - Normas e Procedimentos}}
-      \field{year}{2023}
+      \field{abstract}{The use of educational games in Chemistry teaching has a history of 100 years, dating back to their first publication in 1925. Studies have shown the positive effects of this complementary learning strategy, such as increased motivation and improvements in the interpretation of symbols and concepts, especially in schools and universities. This review presents essential information on educational games for the scientific community of Chemistry, including titles, areas, and subareas of study covered, countries, number of publications, delivery methods and formats, the language used, categories and styles, and types of journals. The objective is to provide a broad overview of the evolution of research in the area, encouraging new productions and reproductions based on a detailed analysis of the collected data. The search was conducted in the Web of Science, Scopus, Dimensions, and Education Resources Information Center databases, which are some of the most widely used by researchers worldwide and provide highly reliable open-access journals. The bibliographic mapping covers the period from January 1925 to June 2024, identifying 735 relevant works. After careful analysis, which included the exclusion of duplicates and the application of inclusion and exclusion criteria, 311 complete articles were considered in this study. The method adopted was bibliometric analysis, specifically Performance Analysis, with a descriptive and analytical approach. The references extracted from this mapping were used to discuss and validate the findings and the evolution of the applicability of educational games in the teaching and learning of Chemistry throughout this centenary.}
+      \field{issn}{19381328}
+      \field{issue}{4}
+      \field{journaltitle}{Journal of Chemical Education}
+      \field{month}{4}
+      \field{title}{1925-2024: One Century of Educational Games in Chemistry}
+      \field{volume}{102}
+      \field{year}{2025}
+      \field{pages}{1492\bibrangedash 1510}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1021/acs.jchemed.4c01238
+      \endverb
+      \keyw{Bibliographic Mapping,Bibliometric Performance Analysis,Games Education,Games in Chemistry,Games in the Chemistry Laboratory}
+    \endentry
+    \entry{Zaharias2010}{report}{}{}
+      \name{author}{2}{}{%
+        {{hash=9ebe2b8b4d3fae432a1034e1c2b7f617}{%
+           family={Zaharias},
+           familyi={Z\bibinitperiod},
+           given={Panagiotis},
+           giveni={P\bibinitperiod}}}%
+        {{hash=e4e1b7caec9d8b51c30ae64a2c5344a9}{%
+           family={Chatzeparaskevaidou},
+           familyi={C\bibinitperiod},
+           given={Ioanna},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{e51f16672c6eaeaa31ad6fb0a656d584}
+      \strng{fullhash}{e51f16672c6eaeaa31ad6fb0a656d584}
+      \strng{fullhashraw}{e51f16672c6eaeaa31ad6fb0a656d584}
+      \strng{bibnamehash}{e51f16672c6eaeaa31ad6fb0a656d584}
+      \strng{authorbibnamehash}{e51f16672c6eaeaa31ad6fb0a656d584}
+      \strng{authornamehash}{e51f16672c6eaeaa31ad6fb0a656d584}
+      \strng{authorfullhash}{e51f16672c6eaeaa31ad6fb0a656d584}
+      \strng{authorfullhashraw}{e51f16672c6eaeaa31ad6fb0a656d584}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Serious games have both utilitarian and hedonic qualities. Their main goal is to advance learning and motivation to learn while providing fun and enjoyment. The complex issue of motivation to learn has been researched but results are inconclusive. How can hedonic and pragmatic qualities contribute to motivation to learn? In this study ARCS model of motivational design (Keller, 1987) and the UX model proposed by Hassenzahl et al. (2003) are employed as we are trying to interpret this complex phenomenon. A model with hedonic and pragmatic factors predicting motivation to learn is presented and discussed. A serious educational game is used and evaluated in elementary school settings as a complementary method to teach geography. Findings reveal that hedonic values are still strong and contribute in much higher degree to motivation to learn even though the purpose of the game is to learn. Understanding such relationships between motivation to learn and user experience perceptions (hedonic and pragmatic ones) may provide valuable input to the design and evaluation of serious games.}
+      \field{title}{Hedonic and Pragmatic Qualities as Predictors for Motivation to Learn in Serious Educational Games}
+      \field{type}{techreport}
+      \field{year}{2010}
       \verb{urlraw}
-      \verb https://www.ua.pt/pt/sga/page/12786
+      \verb http://scratch.mit.edu
       \endverb
       \verb{url}
-      \verb https://www.ua.pt/pt/sga/page/12786
+      \verb http://scratch.mit.edu
       \endverb
+      \keyw{Design,Human Factors Keywords Serious games,K31 [Computers and Education]: Computer Uses in Education; H52 [User Interfaces]-Evaluation/methodology General Terms Measurement,UX,hedonic qualities,motivation to learn,pragmatic qualities}
+    \endentry
+    \entry{daSilvaJnior2024vikings}{article}{}{}
+      \name{author}{9}{}{%
+        {{hash=b85459b9b9c140c70a32a7497b00edbc}{%
+           family={Silva\bibnamedelima Júnior},
+           familyi={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={José\bibnamedelima Nunes},
+           giveni={J\bibinitperiod\bibinitdelim N\bibinitperiod},
+           prefix={da},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=9862ee2caccd2c6e6aa5c753fadc3dd8}{%
+           family={Lima\bibnamedelima Castro},
+           familyi={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Guilherme},
+           giveni={G\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=0816ee83dff0e8e08117fd16b032cf76}{%
+           family={Jucá},
+           familyi={J\bibinitperiod},
+           given={Renner\bibnamedelimb César\bibnamedelima Silveira},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=5b6821b6c437cd61606009ebe6d59aba}{%
+           family={Nunes},
+           familyi={N\bibinitperiod},
+           given={Fátima\bibnamedelima Miranda},
+           giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=fd5cb6a2a2f905fe39e59c019392527b}{%
+           family={Nobre},
+           familyi={N\bibinitperiod},
+           given={Davi\bibnamedelima Janô},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=93363f7bf467600e478a16f067bc1ae4}{%
+           family={Junior},
+           familyi={J\bibinitperiod},
+           given={Antonio\bibnamedelimb José\bibnamedelimb Melo\bibnamedelima Leite},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=a1a591bcc376e1b7ba031dfd53f33d02}{%
+           family={Alexandre},
+           familyi={A\bibinitperiod},
+           given={Francisco\bibnamedelimb Serra\bibnamedelima Oliveira},
+           giveni={F\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=9fb15e4276cd750f3a1139ed6394c515}{%
+           family={Sousa},
+           familyi={S\bibinitperiod},
+           given={Ulisses\bibnamedelima Silva},
+           giveni={U\bibinitperiod\bibinitdelim S\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=7843886168edbf15da64d4f98719a0f5}{%
+           family={Monteiro},
+           familyi={M\bibinitperiod},
+           given={André\bibnamedelima Jalles},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society}%
+      }
+      \strng{namehash}{18c40a0aaeb28094859a8249b28f324b}
+      \strng{fullhash}{9512acb4eab57f121225132db43172be}
+      \strng{fullhashraw}{9512acb4eab57f121225132db43172be}
+      \strng{bibnamehash}{18c40a0aaeb28094859a8249b28f324b}
+      \strng{authorbibnamehash}{18c40a0aaeb28094859a8249b28f324b}
+      \strng{authornamehash}{18c40a0aaeb28094859a8249b28f324b}
+      \strng{authorfullhash}{9512acb4eab57f121225132db43172be}
+      \strng{authorfullhashraw}{9512acb4eab57f121225132db43172be}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This article provides information about designing, implementing, and evaluating an online cooperative game─Vikings game─to assist high school and undergraduate students in reviewing contents related to thermochemistry, chemical equilibrium, and chemical kinetics. It is a free-of-charge game and is available in both English and Portuguese. The game was introduced into the classroom as an educational review tool, offering an innovative approach to supplement traditional problem-solving classes. Also, upon evaluating student learning, it became evident that the game significantly contributed to educational enhancement. The learners expressed highly favorable opinions about the game, considering it an innovative and valuable complementary didactic tool.}
+      \field{issn}{19381328}
+      \field{issue}{6}
+      \field{journaltitle}{Journal of Chemical Education}
+      \field{month}{6}
+      \field{title}{Vikings: An Online Cooperative Game for Reviewing Thermochemistry, Chemical Equilibrium, and Chemical Kinetics}
+      \field{volume}{101}
+      \field{year}{2024}
+      \field{pages}{2413\bibrangedash 2421}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1021/acs.jchemed.3c01310
+      \endverb
+      \keyw{High School/Introductory Chemistry,Humor/Puzzles/Games,Physical Chemistry,Thermochemistry/Chemical Kinetics/Chemical Equilibrium}
+    \endentry
+    \entry{Pinthong2024}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=0c4f0125d562ac6374e5ee1a27172603}{%
+           family={Pinthong},
+           familyi={P\bibinitperiod},
+           given={Chatchadaporn},
+           giveni={C\bibinitperiod}}}%
+        {{hash=95302dc64ca86439d358366807f5340e}{%
+           family={Poungkaew},
+           familyi={P\bibinitperiod},
+           given={Natpawee},
+           giveni={N\bibinitperiod}}}%
+        {{hash=3c53433b6fad380df9ea1b256cfcc134}{%
+           family={Ampaipis},
+           familyi={A\bibinitperiod},
+           given={Titapa},
+           giveni={T\bibinitperiod}}}%
+        {{hash=3116821dac24d9e7444caa7c22382203}{%
+           family={Thanyaphongphat},
+           familyi={T\bibinitperiod},
+           given={Jirapipat},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b62cdb499e725557ff278e3c99788152}{%
+           family={Pimviriyakul},
+           familyi={P\bibinitperiod},
+           given={Panu},
+           giveni={P\bibinitperiod}}}%
+        {{hash=cb11440bcb3f9a761ff1c1281d512402}{%
+           family={Maenpuen},
+           familyi={M\bibinitperiod},
+           given={Somchart},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society}%
+      }
+      \strng{namehash}{76bda1598f789b1615bf43ffb374b8d5}
+      \strng{fullhash}{989cd4cea7d3cabe5a62545cbc4b226c}
+      \strng{fullhashraw}{989cd4cea7d3cabe5a62545cbc4b226c}
+      \strng{bibnamehash}{989cd4cea7d3cabe5a62545cbc4b226c}
+      \strng{authorbibnamehash}{989cd4cea7d3cabe5a62545cbc4b226c}
+      \strng{authornamehash}{76bda1598f789b1615bf43ffb374b8d5}
+      \strng{authorfullhash}{989cd4cea7d3cabe5a62545cbc4b226c}
+      \strng{authorfullhashraw}{989cd4cea7d3cabe5a62545cbc4b226c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The coronavirus (COVID-19) pandemic prevented students from attending on-site classes. Consequently, their face-to-face interactions decreased. Thus, it became crucial to design learning activities to enhance the motivation of students and inspire them to achieve the desired learning outcomes during the long disruption of on-site classes. Mobile devices and applications represent the most frequently used alternatives to online learning tools. During the COVID-19 pandemic, biochemists faced the challenges of integrating technology and biochemistry principles to allow students to investigate difficult topics, such as factors affecting enzyme activity. We created the Metal Demon Conqueror Game to address this difficulty: this new digital game-based learning tool is intended to encourage undergraduate students to learn about factors affecting enzyme activity. This challenging game comprises five levels entailing enzyme concentrations, temperature, cofactors, pH, and the final stage. The content component of the game allows students to explore the fundamental concepts related to factors affecting enzyme activity and enables them to engage in self-paced learning by playing the game from anywhere, at any time. The evaluation questionnaire revealed that the Metal Demon Conqueror Game could promote the learning of the factors affecting enzyme activity and help students grasp the content better than learning from textbooks. Students were interested in using the game and were satisfied with their learning of the factors affecting enzyme activity. Thus, the game offers a more engaging experience than learning from textbooks and is an interactive learning experience for students.}
+      \field{issn}{19381328}
+      \field{issue}{4}
+      \field{journaltitle}{Journal of Chemical Education}
+      \field{month}{4}
+      \field{title}{Metal Demon Conqueror Game: A New Digital Game-Based Learning Tool on Factors Affecting Enzyme Activity}
+      \field{volume}{101}
+      \field{year}{2024}
+      \field{pages}{1718\bibrangedash 1725}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1021/acs.jchemed.3c01212
+      \endverb
+      \keyw{Biochemistry,Computer-Based Learning,Distance Learning/Self Instruction,Enzymes,First-Year Undergraduate/General,Internet/Web-Based Learning,Kinetics,Upper-Division Undergraduate}
+    \endentry
+    \entry{daSilvaJnior2024spacerace}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=b85459b9b9c140c70a32a7497b00edbc}{%
+           family={Silva\bibnamedelima Júnior},
+           familyi={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={José\bibnamedelima Nunes},
+           giveni={J\bibinitperiod\bibinitdelim N\bibinitperiod},
+           prefix={da},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=117200f2fc8d11697631427f7cc3abbf}{%
+           family={Ribeiro},
+           familyi={R\bibinitperiod},
+           given={Maria\bibnamedelimb Elenir\bibnamedelimb Nobre\bibnamedelima Pinho},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=93363f7bf467600e478a16f067bc1ae4}{%
+           family={Junior},
+           familyi={J\bibinitperiod},
+           given={Antonio\bibnamedelimb José\bibnamedelimb Melo\bibnamedelima Leite},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=0d8ee7f3bf87617cc34765d51a5da9be}{%
+           family={Oliveira\bibnamedelima Alexandre},
+           familyi={O\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Maria\bibnamedelima Clara},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=a1a591bcc376e1b7ba031dfd53f33d02}{%
+           family={Alexandre},
+           familyi={A\bibinitperiod},
+           given={Francisco\bibnamedelimb Serra\bibnamedelima Oliveira},
+           giveni={F\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=7843886168edbf15da64d4f98719a0f5}{%
+           family={Monteiro},
+           familyi={M\bibinitperiod},
+           given={André\bibnamedelima Jalles},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society}%
+      }
+      \strng{namehash}{18c40a0aaeb28094859a8249b28f324b}
+      \strng{fullhash}{912ad9c765c9c8ab81ee1250f654d8dc}
+      \strng{fullhashraw}{912ad9c765c9c8ab81ee1250f654d8dc}
+      \strng{bibnamehash}{912ad9c765c9c8ab81ee1250f654d8dc}
+      \strng{authorbibnamehash}{912ad9c765c9c8ab81ee1250f654d8dc}
+      \strng{authornamehash}{18c40a0aaeb28094859a8249b28f324b}
+      \strng{authorfullhash}{912ad9c765c9c8ab81ee1250f654d8dc}
+      \strng{authorfullhashraw}{912ad9c765c9c8ab81ee1250f654d8dc}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This work provides information about the design, implementation, and assessment of the instructional role of a bilingual (English and Portuguese) web-based board game designed to assist Brazilian Mechanical Engineering undergraduate students in reviewing the content related to thermodynamics, chemical equilibrium, and chemical kinetics. The game can be an alternative instrument to traditional problem-solving classes. Sixty-four mechanical engineering undergraduate students played the game using the Portuguese version and evaluated it positively. Also, learning assessments revealed that the game effectively promotes learning like conventional problem-solving classes.}
+      \field{issn}{19381328}
+      \field{issue}{5}
+      \field{journaltitle}{Journal of Chemical Education}
+      \field{month}{4}
+      \field{title}{Space Race Game: A Web-Based Board Game for Aiding Students in Reviewing Thermochemistry, Chemical Equilibrium, and Chemical Kinetics}
+      \field{volume}{101}
+      \field{year}{2024}
+      \field{pages}{1875\bibrangedash 1882}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1021/acs.jchemed.3c00981
+      \endverb
+      \keyw{Chemical Equilibrium,Chemical Kinetics,Computer-Based Learning,First-Year Undergraduate/General,Humor/Puzzles/Games,Physical Chemistry,Thermodynamics}
     \endentry
   \enddatalist
 \endrefsection
